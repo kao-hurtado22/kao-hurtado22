@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Ricardo Hurtado Lastra</h1>
 <h3 align="center">Un apasionado desarrollador Junior FullStack de Chile</h3>
 
-<p align="right"> <img src="https://images.cointelegraph.com/images/1024_IGh0dHBzOi8vczMuY29pbnRlbGVncmFwaC5jb20vc3RvcmFnZS91cGxvYWRzL3ZpZXcvZmFkZGNkMTEyZTM0MmQyNmM4NzkyZDg1ZTE5MmFjYzIuanBn.jpg" width="200" height="200"/> </p>
+<p align="right"> <img src="https://images.cointelegraph.com/images/1024_IGh0dHBzOi8vczMuY29pbnRlbGVncmFwaC5jb20vc3RvcmFnZS91cGxvYWRzL3ZpZXcvZmFkZGNkMTEyZTM0MmQyNmM4NzkyZDg1ZTE5MmFjYzIuanBn.jpg" width="720" height="500"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kao-hurtado22&label=Profile%20views&color=0e75b6&style=flat" alt="kao-hurtado22" /> </p>
 
