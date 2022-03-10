@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo Hurtado Lastra</h1>
-<h3 align="center"><p align="right"> <img src="https://images.cointelegraph.com/images/1024_IGh0dHBzOi8vczMuY29pbnRlbGVncmFwaC5jb20vc3RvcmFnZS91cGxvYWRzL3ZpZXcvZmFkZGNkMTEyZTM0MmQyNmM4NzkyZDg1ZTE5MmFjYzIuanBn.jpg" width="920" height="400"/> </p>A passionate Junior FullStack Developer from Chile</h3>
+<p align="right"> <img src="https://images.cointelegraph.com/images/1024_IGh0dHBzOi8vczMuY29pbnRlbGVncmFwaC5jb20vc3RvcmFnZS91cGxvYWRzL3ZpZXcvZmFkZGNkMTEyZTM0MmQyNmM4NzkyZDg1ZTE5MmFjYzIuanBn.jpg" width="920" height="400"/> </p>
+<h3 align="center">A passionate Junior FullStack Developer from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kao-hurtado22&label=Profile%20views&color=0e75b6&style=flat" alt="kao-hurtado22" /> </p>
 
