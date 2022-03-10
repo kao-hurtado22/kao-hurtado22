@@ -1,6 +1,5 @@
 <h1 align="center">Hola 👋, soy Ricardo Hurtado Lastra</h1>
 <h3 align="center">Un apasionado desarrollador Junior FullStack de Chile</h3>
-
 <img src="https://images.cointelegraph.com/images/1024_IGh0dHBzOi8vczMuY29pbnRlbGVncmFwaC5jb20vc3RvcmFnZS91cGxvYWRzL3ZpZXcvZmFkZGNkMTEyZTM0MmQyNmM4NzkyZDg1ZTE5MmFjYzIuanBn.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kao-hurtado22&label=Profile%20views&color=0e75b6&style=flat" alt="kao-hurtado22" /> </p>
@@ -11,10 +10,10 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 < p alinear="izquierda">
+<a href="https://twitter.com/kao_hurtado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="kao_hurtado" height="30" width="40" /></a>
+<a href="https://linkedin.com/in /ricardo-hurtado-409035226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/linked-in-alt.svg" alt="ricardo-hurtado-409035226" height="30" width="40" /></a>
 <a href="https://fb.com/rihurtado " target="en blanco"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rihurtado" height="30" width=" 40" /></a>
 <a href="https://instagram.com/kao_hurtado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="kao_hurtado" height="30" width="40" /></a>
-<a href="https://linkedin.com/in /ricardo-hurtado-409035226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/linked-in-alt.svg" alt="ricardo-hurtado-409035226" height="30" width="40" /></a>
-<a href="https://twitter.com/kao_hurtado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="kao_hurtado" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y Herramientas:</h3>
