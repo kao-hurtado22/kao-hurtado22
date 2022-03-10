@@ -1,20 +1,22 @@
 <h1 align="center">Hola 👋, soy Ricardo Hurtado Lastra</h1>
 <h3 align="center">Un apasionado desarrollador Junior FullStack de Chile</h3>
 
-<p align="right"> <img src="https://images.cointelegraph.com/images/1024_IGh0dHBzOi8vczMuY29pbnRlbGVncmFwaC5jb20vc3RvcmFnZS91cGxvYWRzL3ZpZXcvZmFkZGNkMTEyZTM0MmQyNmM4NzkyZDg1ZTE5MmFjYzIuanBn.jpg" width="920" height="400"/> </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kao-hurtado22&label=Profile%20views&color=0e75b6&style=flat" alt="kao-hurtado22" /> </p>
 
 <p align="left"> < a href="https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=kao-hurtado22" alt ="kao-hurtado22" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kao_hurtado" target="blank"><img src=" https://img.escudos.io/twitter/follow/kao_hurtado?logo=twitter&style=for-the-badge" alt="kao_hurtado" /></a> </p>
 
-<h3 align="left">Conéctate conmigo:</h3>
-< p alinear="izquierda">
-<a href="https://twitter.com/kao_hurtado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="kao_hurtado" height="30" width="40" /></a>
-<a href="https://linkedin.com/in /ricardo-hurtado-409035226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/linked-in-alt.svg" alt="ricardo-hurtado-409035226" height="30" width="40" /></a>
-<a href="https://fb.com/rihurtado " target="en blanco"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rihurtado" height="30" width=" 40" /></a>
-<a href="https://instagram.com/kao_hurtado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="kao_hurtado" height="30" width="40" /></a>
+- 📫 Cómo contactarme **kao.hurtado22@gmail.com**
+
+- 📄 Conoce mis experiencias [https://www.doyoubuzz.com/ricardo-patricio-hurtado-lastra](https://www.doyoubuzz.com/ricardo-patricio-hurtado-lastra)
+
+<h3 align="left" ">Conéctate conmigo:</h3>
+<p align="left">
+<a href="https://twitter.com/kao_hurtado" target="blank"><img align="center" src="https ://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kao_hurtado" height="30" width="40" /> </a>
+<a href="https://linkedin.com/in/ricardo-hurtado-409035226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo-hurtado-409035226" height="30" width="40" / ></a>
+<a href="https://fb.com/rihurtado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/facebook.svg" alt="rihurtado" height="30" width="40" /></a>
+<a href="https://instagram.com/kao_hurtado " target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg " alt="kao_hurtado" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y Herramientas:</h3>
